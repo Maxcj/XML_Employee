@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Info>
+  <userInfo info_id="1" id="2">
+    <name>yyyy</name>
+    <email>1@qq.com</email>
+    <phone>4364574</phone>
+    <sex>女</sex>
+    <deprt>财务部</deprt>
+  </userInfo>
+  <userInfo info_id="5" id="5">
+    <name>Ben</name>
+    <email>656@qq.com</email>
+    <phone>534634</phone>
+    <sex>男</sex>
+    <deprt>研发部</deprt>
+  </userInfo>
+  <userInfo info_id="5" id="7">
+    <name>Sally</name>
+    <email>131@qq.com</email>
+    <phone>123456</phone>
+    <sex>女</sex>
+    <deprt>外交部</deprt>
+  </userInfo>
+  <userInfo info_id="7" id="9">
+    <name>Kat</name>
+    <email>45313@126.com</email>
+    <phone>4684351</phone>
+    <sex>男</sex>
+    <deprt>开发部</deprt>
+  </userInfo>
+</Info>
+

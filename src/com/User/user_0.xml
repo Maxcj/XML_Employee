@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1">
+    <name>管理员</name>
+    <password>admin</password>
+  </user>
+  <user id="2">
+    <name>admin</name>
+    <password>123456</password>
+  </user>
+  <user id="5">
+    <name>abc</name>
+    <password>123456</password>
+  </user>
+  <user id="7">
+    <name>aaa</name>
+    <password>aaa</password>
+  </user>
+  <user id="9">
+    <name>admin</name>
+    <password>admin1</password>
+  </user>
+  <user id="11">
+    <name>abc</name>
+    <password>admin</password>
+  </user>
+  <user id="13">
+    <name>qwer</name>
+    <password>123456</password>
+  </user>
+</users>
+

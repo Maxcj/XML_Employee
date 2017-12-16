@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Notices>
+	<Notice notice_id="1">
+		<notice_tittle>2017</notice_tittle>
+		<notice_content>年终奖</notice_content>
+		<notice_date>2017-12-07 20:22:00</notice_date>
+	</Notice>
+	<Notice notice_id="3">
+		<notice_tittle>2017年11月份工资</notice_tittle>
+		<notice_content>2017年11月份工资已经发放，请注意查收。</notice_content>
+		<notice_date>2017-12-11 19:01:20</notice_date>
+	</Notice>
+	<Notice notice_id="5">
+		<notice_tittle>加班通知</notice_tittle>
+		<notice_content>2017年12月16.17照常上班。</notice_content>
+		<notice_date>2017-12-13 16:43:30</notice_date>
+	</Notice>
+</Notices>
+
